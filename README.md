@@ -8,3 +8,7 @@ This project aims to analyze municipal data, including population density, waste
 -What is the percentage composition of different waste types (e.g., paper, plastic, glass)?
 -How does waste generation vary between urban and rural areas?
 -Which type of waste contributes the most to the overall waste volume?
+
+##Dashboard
+<img width="742" alt="Screenshot 2025-01-23 141214" src="https://github.com/user-attachments/assets/4912357d-a803-4bb9-9b06-ae3f098f87b6" />
+
