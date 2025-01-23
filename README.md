@@ -1,2 +1,3 @@
-# Data_Analysis_Dashboard-
-This Tableau project analyzes municipal data, uncovering insights into population density, waste generation, and urbanization levels. Key findings, visualized in an interactive dashboard, empower stakeholders to make data-driven decisions for optimized resource allocation and improved waste management strategies.
+Municipal Data Analysis and Visualization with Tableau
+Project Objective:
+This project aims to analyze municipal data, including population density, waste generation, and urbanization levels, using Tableau to create interactive visualizations that provide insights for improved urban planning and waste management strategies.
